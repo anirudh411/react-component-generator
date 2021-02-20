@@ -1,0 +1,32 @@
+{
+  "name": "react-component-generator",
+  "version": "1.0.0",
+  "description": "A cli tool to generate React components",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rfc": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudh411/react-component-generator"
+  },
+  "bugs": {
+    "url": "https://github.com/anirudh411/react-component-generator"
+  },
+  "homepage": "https://github.com/anirudh411/react-component-generator",
+  "keywords": [
+    "React",
+    "Component",
+    "File"
+  ],
+  "author": "Anirudh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^7.3.3",
+    "yargs": "^13.2.4"
+  }
+}

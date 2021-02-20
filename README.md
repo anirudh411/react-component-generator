@@ -1,1 +1,1 @@
-# react-component-generator
+## Generate react components from your cli
