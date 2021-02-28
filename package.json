@@ -1,6 +1,6 @@
 {
-  "name": "react-component-generator",
-  "version": "1.0.0",
+  "name": "@ani411/react-component-generator",
+  "version": "1.0.2",
   "description": "A cli tool to generate React components",
   "main": "bin/index.js",
   "scripts": {
