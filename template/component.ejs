@@ -1,5 +1,7 @@
 import * as React from "react";
-
+<%if (includeCss) { %>
+import "./<%= cssFile %>";
+<% } %>
 const <%= componentName %> = () => null;
 
 export default <%= componentName %>;
